@@ -1,7 +1,6 @@
 import streamlit as st
 import sqlite3
 import pandas as pd
-from PyPDF2 import PdfReader
 from docx import Document
 import json
 import os
@@ -21,6 +20,7 @@ import random
 import numpy as np
 import plotly.express as px
 import calendar
+from PyPDF2 import PdfReader
 
 # Initial NLTK setup
 try:

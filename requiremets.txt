@@ -1,7 +1,6 @@
 streamlit>=1.31.0
 sqlite3
 pandas>=2.0.0
-PyPDF2==3.0.1
 python-docx>=1.1.0
 json
 python-dotenv>=1.0.0
@@ -13,3 +12,4 @@ rank-bm25>=0.2.0
 ortools>=9.8.0
 numpy>=1.25.0
 plotly>=5.14.0
+PyPDF2==3.0.1

@@ -15,5 +15,6 @@ plotly>=5.14.0
 docitup
 py-zerox
 PyPDF2==3.0.1
-python-docx
+docling
+python-docx==1.1.2
 docx
